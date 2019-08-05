@@ -11,11 +11,8 @@
 .nav-item a:hover{
     color: #f72210 !important;
 }
-.latestnews{
-}
-#image{
-    height:90px;
-    width:135px;
-    background-color: aliceblue
-
+.imagenews{
+    width:130px;
+    height: 90px;
+    float: left;
 }
