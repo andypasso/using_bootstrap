@@ -23,3 +23,9 @@
     font-size: 1.5rem;
     line-height: 1;
 }
+p{
+    font-size: 1rem;
+}
+.byline{
+    margin-top: -10px;
+}
