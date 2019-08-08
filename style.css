@@ -1,3 +1,6 @@
+footer a {
+    text-decoration: none !important;
+}
 .redbg{
     background-color: #f72210;
 }
