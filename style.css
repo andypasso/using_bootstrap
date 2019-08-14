@@ -17,7 +17,7 @@ footer a {
 .imagenews{
     width:130px;
     height: 90px;
-    float: left;
+    /* float: left; */
 }
 .N{
     background-color: #f72210;
@@ -32,3 +32,14 @@ p{
 .byline{
     margin-top: -15px;
 }
+.card {
+    border:none !important;
+}
+
+
+
+
+@media (max-width: 768px) {
+    .logotitle{
+    }
+  }
