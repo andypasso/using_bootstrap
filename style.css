@@ -45,6 +45,7 @@ p{
     .logotitle{
         font-size:24px;
     }
+}
     @media (max-width: 576px) {
         .logotitle{
             font-size:18px; 
@@ -52,4 +53,4 @@ p{
      .sign{
          font-size: 12px;
      }
-    }
+}
