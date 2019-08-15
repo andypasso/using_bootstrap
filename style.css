@@ -35,11 +35,21 @@ p{
 .card {
     border:none !important;
 }
+.logotitle{
+    font-size:5rem;
+}
 
 
 
-
-@media (max-width: 768px) {
+@media (max-width: 992px) {
     .logotitle{
+        font-size:24px;
     }
-  }
+    @media (max-width: 576px) {
+        .logotitle{
+            font-size:18px; 
+     }
+     .sign{
+         font-size: 12px;
+     }
+    }
