@@ -1,0 +1,56 @@
+footer a {
+    text-decoration: none !important;
+}
+.redbg{
+    background-color: #f72210;
+}
+.navbg{
+    background-color: #f8f9fa;
+}
+.opinionimg{
+    width: 63px;
+    height: 63px;
+}
+.nav-item a:hover{
+    color: #f72210 !important;
+}
+.imagenews{
+    width:130px;
+    height: 90px;
+    /* float: left; */
+}
+.N{
+    background-color: #f72210;
+}
+.newsletter{
+    font-size: 1.5rem;
+    line-height: 1;
+}
+p{
+    font-size: 1rem;
+}
+.byline{
+    margin-top: -15px;
+}
+.card {
+    border:none !important;
+}
+.logotitle{
+    font-size:5rem;
+}
+
+
+
+@media (max-width: 992px) {
+    .logotitle{
+        font-size:24px;
+    }
+}
+    @media (max-width: 576px) {
+        .logotitle{
+            font-size:18px; 
+     }
+     .sign{
+         font-size: 12px;
+     }
+}
